@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "5d069029-46ae-4d78-8399-ca2b32bfac33"
+      }
+    },
+    "android": {
+      "package": "com.koushik.bellam.rideguard"
+    }
+  }
+}
